@@ -1,6 +1,8 @@
 The files from the update.zip go in.
 \var\www\html\
 
+There are [How to] wire diagrams and [How To] program variables, including custom feed charts.
+All located inside the zipfile\how to\
 
 
 There will be a downloadable image when I get time to actually make it and find a host for it.
